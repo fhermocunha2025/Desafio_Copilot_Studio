@@ -1,6 +1,7 @@
 Etapas do Desafio
-* Conectar/Criar uma conta no Microsoft 365 (link: https://copilotstudio.microsoft.com/);
-* Criar um copilot baseado em modelo (Escolha o modelo de agência de viagens ou "Sales Travels");
+
+* Conectar/Criar uma conta no Microsoft 365 através do link: https://copilotstudio.microsoft.com;
+* Criar um copilot baseado em modelo: Escolha o modelo de agência de viagens ou "Sales Travels";
 * Criar um copilot baseado em descrição de IA (Onde você vai poder carregar informações de sites existentes para facilitar as resposta às perguntas);
 * Criar um copilot em branco.
 
@@ -21,12 +22,12 @@ Os agentes podem interagir com clientes e funcionários em vários idiomas em si
 
 Você pode criar agentes facilmente no Copilot Studio sem precisar de cientistas de dados ou desenvolvedores. Algumas das maneiras pelas quais você pode usar agentes incluem:
 
-*Ajuda e problemas de suporte de Vendas.
-*Horário de funcionamento e informações da loja.
-*Benefícios de férias e saúde para funcionários.
-*Informações de rastreamento de saúde pública.
-*Perguntas comuns dos funcionários para empresas.
-*Os agentes podem ser usados sozinhos ou para estender o Microsoft 365 Copilot com dados e cenários corporativos.
+* Ajuda e problemas de suporte de Vendas.
+* Horário de funcionamento e informações da loja.
+* Benefícios de férias e saúde para funcionários.
+* Informações de rastreamento de saúde pública.
+* Perguntas comuns dos funcionários para empresas.
+* Os agentes podem ser usados sozinhos ou para estender o Microsoft 365 Copilot com dados e cenários corporativos.https://github.com/fhermocunha2025/Desafio_Copilot_Studio
 
 O que é um fluxo do agente?
 Os fluxos de agente oferecem uma maneira poderosa de automatizar tarefas repetitivas e integrar seus aplicativos e serviços. Os fluxos de agente podem ser disparados manualmente, por outros eventos ou agentes automatizados ou com base em uma agenda.
@@ -38,4 +39,4 @@ Os fluxos de agente podem ser executados como automações autônomas. Você tam
 Acesso ao Copilot Studio
 O Copilot Studio está disponível como um aplicativo Web autônomo e como um aplicativo discreto no Teams. A maior parte da funcionalidade entre os dois é a mesma. No entanto, pode haver diferentes razões para escolher uma versão ou outra com base nas maneiras que você deseja usar o Copilot Studio.
 
-Este artigo teve como referência o artigo da Microsoft sobre [Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/fundamentals-what-is-copilot-studio).
+Este artigo teve como referência o artigo da Microsoft sobre [ Copilot Studio ](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/fundamentals-what-is-copilot-studio).
